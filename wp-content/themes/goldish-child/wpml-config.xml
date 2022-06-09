@@ -1,0 +1,19 @@
+
+<wpml-config>
+	<admin-texts>
+        <key name="theme_mods_goldish-child">
+			<key name="header_phone" />
+			<key name="header_email" />
+			<key name="header_address" />
+			<key name="header_hours" />
+			<key name="header_lang" />
+			<key name="header_other" />
+			<key name="footer_copyright" />
+			<key name="store_notice_button_text" />
+			<key name="outofstock_badge_text" />
+			<key name="featured_badge_text" />
+			<key name="sale_badge_text" />
+			<key name="new_badge_text" />
+		</key>
+	</admin-texts>
+</wpml-config>
